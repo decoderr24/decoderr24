@@ -1,5 +1,4 @@
-<img src="![programmerEngganNgoding](https://github.com/user-attachments/assets/82ad79c9-98de-4d66-a9a8-7155e73f3c30)
-" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Rifky. A Newbie Programmer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 Studying in Dian Nuswantoro<br>👨🏼‍💻 Learning Enjoyer <br>
