@@ -1,4 +1,4 @@
-<img src="programmerEngganNgoding.jpeg" alt="GitHub Banner" width="100%" />
+<img src="bannerGithub.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Rifky. A Newbie Programmer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 Studying in Dian Nuswantoro<br>👨🏼‍💻 Learning Enjoyer <br>
