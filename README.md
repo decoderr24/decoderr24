@@ -1,7 +1,7 @@
 <img src="bannerGithub.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Rifky. A Newbie Programmer 👋🏼:
-🛜 currently Internship At Diskominfo <br>👨🏼‍🎓 Studying Informatic Engineering Dian Nuswantoro<br>👨🏼‍💻 Learning Enjoyer <br>
+# Hello Coders!, I'm Rifky. A Tech Enthusiast 👋🏼:
+🛜 Currently Internship At Diskominfo <br>👨🏼‍🎓 Studying Informatic Engineering Dian Nuswantoro<br>👨🏼‍💻 Learning Enjoyer <br>
 
 
 # 💻 Tech Stack:
