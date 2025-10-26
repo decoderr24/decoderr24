@@ -1,7 +1,7 @@
 <img src="bannerGithub.png" alt="GitHub Banner" width="100%" />
 
 # Hello Coders!, I'm Rifky. A Tech Enthusiast 👋🏼:
-🛜 Currently Internship At Diskominfo <br>👨🏼‍🎓 Studying Informatic Engineering at Dian Nuswantoro<br>👨🏼‍💻 I Love machine learning, deep learning and others stuff <br>
+🛜 Currently Internship At Diskominfo <br>👨🏼‍🎓 Studying Informatic Engineering at Dian Nuswantoro<br>👨🏼‍💻 i Love learning about machine learning, computer vision, NLP and others stuff <br>
 
 
 # 💻 Tech Stack:
